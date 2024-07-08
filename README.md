@@ -1,4 +1,4 @@
-# 👨‍💻 Anant Kavuru         
+<!--# 👨‍💻 Anant Kavuru         
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnantKavuru.AnantKavuru"/>
 
 **`Digital Craftsman (Developer/Artist/Illustrator)`**
@@ -31,7 +31,7 @@ Welcome to my Github page! I am Anant and I am currently pursuing my Computer Sc
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantKavuru&theme=nightowl&line_height=40&hide=css"/>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AnantKavuru&theme=nightowl&border_radius=4.5) -->
-
+<!--
 ---
 <details align="center">
 
@@ -63,5 +63,5 @@ Current Project: <a href="https://github.com/Condition00/Portfolio_Project">Port
 
  ### ⭐️ From [Anant Kavuru](https://github.com/Condition00) ### 
  
----
+-->
 
